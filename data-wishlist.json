@@ -1,0 +1,3451 @@
+{
+  "products": [
+    {
+      "name": "Polerón Mujer",
+      "productId": "15942171",
+      "brand": "ESPRIT",
+      "images": [
+        "https://falabella.scene7.com/is/image/Falabella/15942175_1",
+        "https://falabella.scene7.com/is/image/Falabella/15942175_2"
+      ],
+      "offerings": [
+        {
+          "seller": "Seller B",
+          "rating": 5,
+          "price": 36039,
+          "specialPrice": 15460,
+          "shippingTime": 1,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+            { "region": "Valparaíso", "comuna": "Calle Larga" },
+            { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+            { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+            { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+            { "region": "Valparaíso", "comuna": "San Felipe" }
+          ]
+        },
+        {
+          "seller": "Seller A",
+          "rating": 4,
+          "price": 38139,
+          "specialPrice": 15291,
+          "shippingTime": 1,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Valparaíso", "comuna": "Villa Alemana" },
+            { "region": "Valparaíso", "comuna": "Puchuncaví" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+            { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+            { "region": "Ñuble", "comuna": "San Nicolás" },
+            { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+            { "region": "Valparaíso", "comuna": "Limache" }
+          ]
+        },
+        {
+          "seller": "Seller C",
+          "rating": 5,
+          "price": 34990,
+          "specialPrice": 15630,
+          "shippingTime": 0,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Ñuble", "comuna": "Chillán Viejo" },
+            { "region": "Valparaíso", "comuna": "San Felipe" },
+            { "region": "Valparaíso", "comuna": "Puchuncaví" },
+            { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+            { "region": "Valparaíso", "comuna": "Limache" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Pedro" },
+            { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Polerón Mujer",
+      "productId": "882380313",
+      "brand": "SYBILLA",
+      "images": [
+        "https://falabella.scene7.com/is/image/Falabella/882380314_1",
+        "https://falabella.scene7.com/is/image/Falabella/882380314_2"
+      ],
+      "offerings": [
+        {
+          "seller": "Seller A",
+          "rating": 2,
+          "price": 21789,
+          "specialPrice": 18790,
+          "shippingTime": 2,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Valparaíso", "comuna": "Quintero" },
+            { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+            { "region": "Valparaíso", "comuna": "Puchuncaví" },
+            { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+            { "region": "Valparaíso", "comuna": "Limache" }
+          ]
+        },
+        {
+          "seller": "Seller D",
+          "rating": 3,
+          "price": 21589,
+          "specialPrice": 19990,
+          "shippingTime": 0,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+            { "region": "Ñuble", "comuna": "El Carmen" },
+            { "region": "Ñuble", "comuna": "Chillán Viejo" },
+            { "region": "Ñuble", "comuna": "Ránquil" },
+            { "region": "Ñuble", "comuna": "San Nicolás" },
+            { "region": "Ñuble", "comuna": "Pinto" },
+            { "region": "Valparaíso", "comuna": "Olmué" },
+            { "region": "Ñuble", "comuna": "Quillón" }
+          ]
+        },
+        {
+          "seller": "Seller C",
+          "rating": 3,
+          "price": 20789,
+          "specialPrice": 18590,
+          "shippingTime": 2,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+            { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+            { "region": "Valparaíso", "comuna": "Concón" },
+            { "region": "Valparaíso", "comuna": "Puchuncaví" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" }
+          ]
+        },
+        {
+          "seller": "Seller E",
+          "rating": 5,
+          "price": 21189,
+          "specialPrice": 18190,
+          "shippingTime": 1,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+            { "region": "Ñuble", "comuna": "El Carmen" },
+            { "region": "Valparaíso", "comuna": "Olmué" },
+            { "region": "Ñuble", "comuna": "Chillán Viejo" },
+            { "region": "Valparaíso", "comuna": "Puchuncaví" },
+            { "region": "Valparaíso", "comuna": "Quintero" },
+            { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+            { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+            { "region": "Ñuble", "comuna": "Quillón" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Poleron con Gorro Hombre Negro Star Wars",
+      "productId": "16258875",
+      "brand": "STAR WARS",
+      "images": [
+        "https://falabella.scene7.com/is/image/Falabella/16258876_1",
+        "https://falabella.scene7.com/is/image/Falabella/16258876_2",
+        "https://falabella.scene7.com/is/image/Falabella/16258876_3"
+      ],
+      "offerings": [
+        {
+          "seller": "Seller E",
+          "rating": 3,
+          "price": 31189,
+          "specialPrice": 23750,
+          "shippingTime": 3,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+            { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+            { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+            { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+            { "region": "Ñuble", "comuna": "San Nicolás" },
+            { "region": "Valparaíso", "comuna": "Calle Larga" },
+            { "region": "Valparaíso", "comuna": "Olmué" },
+            { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+            { "region": "Valparaíso", "comuna": "Limache" },
+            { "region": "Ñuble", "comuna": "Ránquil" }
+          ]
+        },
+        {
+          "seller": "Seller B",
+          "rating": 2,
+          "price": 32989,
+          "specialPrice": 21591,
+          "shippingTime": 2,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Ñuble", "comuna": "San Nicolás" },
+            { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+            { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+            { "region": "Valparaíso", "comuna": "Calle Larga" },
+            { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+            { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+            { "region": "Metropolitana de Santiago", "comuna": "Paine" }
+          ]
+        },
+        {
+          "seller": "Seller D",
+          "rating": 2,
+          "price": 30889,
+          "specialPrice": 23270,
+          "shippingTime": 3,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+            { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+            { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+            { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+            { "region": "Valparaíso", "comuna": "Concón" },
+            { "region": "Valparaíso", "comuna": "Zapallar" },
+            { "region": "Valparaíso", "comuna": "San Felipe" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Polerón Mujer",
+      "productId": "882375829",
+      "brand": "DOO AUSTRALIA",
+      "images": [
+        "https://falabella.scene7.com/is/image/Falabella/882375841_1",
+        "https://falabella.scene7.com/is/image/Falabella/882375841_2"
+      ],
+      "offerings": [
+        {
+          "seller": "Seller E",
+          "rating": 2,
+          "price": 21189,
+          "specialPrice": 9790,
+          "shippingTime": 1,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Ñuble", "comuna": "Pinto" },
+            { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+            { "region": "Valparaíso", "comuna": "San Felipe" },
+            { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+            { "region": "Valparaíso", "comuna": "Olmué" },
+            { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+            { "region": "Valparaíso", "comuna": "Putaendo" },
+            { "region": "Ñuble", "comuna": "Ránquil" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Reina" }
+          ]
+        },
+        {
+          "seller": "Seller B",
+          "rating": 4,
+          "price": 21589,
+          "specialPrice": 9890,
+          "shippingTime": 1,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Pedro" },
+            { "region": "Ñuble", "comuna": "Pinto" },
+            { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+            { "region": "Valparaíso", "comuna": "Villa Alemana" },
+            { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+            { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+            { "region": "Ñuble", "comuna": "Quillón" }
+          ]
+        },
+        {
+          "seller": "Seller D",
+          "rating": 2,
+          "price": 19990,
+          "specialPrice": 9990,
+          "shippingTime": 1,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+            { "region": "Ñuble", "comuna": "Pinto" },
+            { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+            { "region": "Valparaíso", "comuna": "Quintero" },
+            { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+            { "region": "Valparaíso", "comuna": "Puchuncaví" },
+            { "region": "Ñuble", "comuna": "El Carmen" },
+            { "region": "Valparaíso", "comuna": "Calle Larga" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Polerón Mujer",
+      "productId": "882444149",
+      "brand": "BASEMENT",
+      "images": [
+        "https://falabella.scene7.com/is/image/Falabella/882444154_1",
+        "https://falabella.scene7.com/is/image/Falabella/882444154_2"
+      ],
+      "offerings": [
+        {
+          "seller": "Seller B",
+          "rating": 3,
+          "price": 20789,
+          "specialPrice": 19390,
+          "shippingTime": 2,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Valparaíso", "comuna": "Limache" },
+            { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+            { "region": "Valparaíso", "comuna": "San Felipe" },
+            { "region": "Ñuble", "comuna": "El Carmen" },
+            { "region": "Ñuble", "comuna": "Quillón" },
+            { "region": "Valparaíso", "comuna": "Concón" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" }
+          ]
+        },
+        {
+          "seller": "Seller A",
+          "rating": 5,
+          "price": 20789,
+          "specialPrice": 18790,
+          "shippingTime": 1,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Ñuble", "comuna": "Quillón" },
+            { "region": "Valparaíso", "comuna": "Puchuncaví" },
+            { "region": "Valparaíso", "comuna": "Zapallar" },
+            { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+            { "region": "Valparaíso", "comuna": "San Felipe" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+            { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+            { "region": "Ñuble", "comuna": "San Nicolás" }
+          ]
+        },
+        {
+          "seller": "Seller C",
+          "rating": 5,
+          "price": 21589,
+          "specialPrice": 18190,
+          "shippingTime": 3,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+            { "region": "Ñuble", "comuna": "Quillón" },
+            { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+            { "region": "Valparaíso", "comuna": "Quintero" },
+            { "region": "Ñuble", "comuna": "El Carmen" },
+            { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Pedro" },
+            { "region": "Valparaíso", "comuna": "Calle Larga" },
+            { "region": "Valparaíso", "comuna": "Zapallar" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Polerón Hombre",
+      "productId": "16040796",
+      "brand": "KAYA UNITE",
+      "images": [
+        "https://falabella.scene7.com/is/image/Falabella/16040798_1",
+        "https://falabella.scene7.com/is/image/Falabella/16040798_2",
+        "https://falabella.scene7.com/is/image/Falabella/16040798_3"
+      ],
+      "offerings": [
+        {
+          "seller": "Seller D",
+          "rating": 4,
+          "price": 43589,
+          "specialPrice": 37190,
+          "shippingTime": 0,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+            { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+            { "region": "Ñuble", "comuna": "Quillón" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" },
+            { "region": "Valparaíso", "comuna": "Villa Alemana" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+            { "region": "Valparaíso", "comuna": "Limache" }
+          ]
+        },
+        {
+          "seller": "Seller A",
+          "rating": 5,
+          "price": 41189,
+          "specialPrice": 36790,
+          "shippingTime": 1,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Pedro" },
+            { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+            { "region": "Valparaíso", "comuna": "Villa Alemana" },
+            { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+            { "region": "Ñuble", "comuna": "Ránquil" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" }
+          ]
+        },
+        {
+          "seller": "Seller C",
+          "rating": 3,
+          "price": 43189,
+          "specialPrice": 39190,
+          "shippingTime": 0,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+            { "region": "Valparaíso", "comuna": "Puchuncaví" },
+            { "region": "Valparaíso", "comuna": "Villa Alemana" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+            { "region": "Valparaíso", "comuna": "Zapallar" },
+            { "region": "Ñuble", "comuna": "Chillán Viejo" },
+            { "region": "Valparaíso", "comuna": "Calle Larga" },
+            { "region": "Valparaíso", "comuna": "Olmué" },
+            { "region": "Metropolitana de Santiago", "comuna": "Conchalí" }
+          ]
+        },
+        {
+          "seller": "Seller B",
+          "rating": 4,
+          "price": 39990,
+          "specialPrice": 37990,
+          "shippingTime": 3,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Valparaíso", "comuna": "Limache" },
+            { "region": "Valparaíso", "comuna": "Concón" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+            { "region": "Ñuble", "comuna": "San Nicolás" },
+            { "region": "Valparaíso", "comuna": "Putaendo" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Polerón Mujer Stranger Things",
+      "productId": "882418330",
+      "brand": "SYBILLA",
+      "images": [
+        "https://falabella.scene7.com/is/image/Falabella/882418336_01",
+        "https://falabella.scene7.com/is/image/Falabella/882418336_02"
+      ],
+      "offerings": [
+        {
+          "seller": "Seller E",
+          "rating": 3,
+          "price": 21189,
+          "specialPrice": 17991,
+          "shippingTime": 0,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+            { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+            { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+            { "region": "Valparaíso", "comuna": "Putaendo" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+            { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+            { "region": "Ñuble", "comuna": "Ránquil" },
+            { "region": "Valparaíso", "comuna": "Puchuncaví" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Florida" }
+          ]
+        },
+        {
+          "seller": "Seller B",
+          "rating": 5,
+          "price": 21189,
+          "specialPrice": 18390,
+          "shippingTime": 0,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Valparaíso", "comuna": "Concón" },
+            { "region": "Valparaíso", "comuna": "Quintero" },
+            { "region": "Valparaíso", "comuna": "Olmué" },
+            { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+            { "region": "Ñuble", "comuna": "Pinto" },
+            { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+            { "region": "Valparaíso", "comuna": "Limache" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Pedro" },
+            { "region": "Metropolitana de Santiago", "comuna": "Renca" }
+          ]
+        },
+        {
+          "seller": "Seller C",
+          "rating": 3,
+          "price": 20789,
+          "specialPrice": 18790,
+          "shippingTime": 3,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Ñuble", "comuna": "Pinto" },
+            { "region": "Ñuble", "comuna": "San Nicolás" },
+            { "region": "Valparaíso", "comuna": "Quintero" },
+            { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+            { "region": "Ñuble", "comuna": "Chillán Viejo" },
+            { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+            { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+            { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+            { "region": "Valparaíso", "comuna": "San Felipe" },
+            { "region": "Valparaíso", "comuna": "Zapallar" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Poleron Algodón Capucha Keith Haring Hombre",
+      "productId": "16022454",
+      "brand": "COTTON ON",
+      "images": [
+        "https://falabella.scene7.com/is/image/Falabella/16022458_1",
+        "https://falabella.scene7.com/is/image/Falabella/16022458_2"
+      ],
+      "offerings": [
+        {
+          "seller": "Seller B",
+          "rating": 5,
+          "price": 40789,
+          "specialPrice": 37190,
+          "shippingTime": 0,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Valparaíso", "comuna": "Concón" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+            { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+            { "region": "Valparaíso", "comuna": "Putaendo" },
+            { "region": "Valparaíso", "comuna": "Limache" },
+            { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Florida" }
+          ]
+        },
+        {
+          "seller": "Seller A",
+          "rating": 4,
+          "price": 40389,
+          "specialPrice": 36390,
+          "shippingTime": 2,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+            { "region": "Valparaíso", "comuna": "Concón" },
+            { "region": "Valparaíso", "comuna": "Calle Larga" },
+            { "region": "Ñuble", "comuna": "Quillón" },
+            { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+            { "region": "Valparaíso", "comuna": "San Felipe" },
+            { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Reina" }
+          ]
+        },
+        {
+          "seller": "Seller E",
+          "rating": 2,
+          "price": 43189,
+          "specialPrice": 37590,
+          "shippingTime": 2,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+            { "region": "Valparaíso", "comuna": "Olmué" },
+            { "region": "Valparaíso", "comuna": "San Felipe" },
+            { "region": "Ñuble", "comuna": "Chillán Viejo" },
+            { "region": "Valparaíso", "comuna": "Zapallar" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Pedro" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+            { "region": "Valparaíso", "comuna": "Villa Alemana" },
+            { "region": "Metropolitana de Santiago", "comuna": "Quilicura" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Polerón Mujer",
+      "productId": "882386394",
+      "brand": "APOLOGY",
+      "images": [
+        "https://falabella.scene7.com/is/image/Falabella/882386402_1",
+        "https://falabella.scene7.com/is/image/Falabella/882386402_2",
+        "https://falabella.scene7.com/is/image/Falabella/882386402_3"
+      ],
+      "offerings": [
+        {
+          "seller": "Seller E",
+          "rating": 5,
+          "price": 21389,
+          "specialPrice": 9790,
+          "shippingTime": 3,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+            { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+            { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" },
+            { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+            { "region": "Ñuble", "comuna": "Ránquil" },
+            { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" }
+          ]
+        },
+        {
+          "seller": "Seller B",
+          "rating": 3,
+          "price": 21989,
+          "specialPrice": 9290,
+          "shippingTime": 3,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Ñuble", "comuna": "Ránquil" },
+            { "region": "Valparaíso", "comuna": "Villa Alemana" },
+            { "region": "Valparaíso", "comuna": "Putaendo" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" },
+            { "region": "Ñuble", "comuna": "Chillán Viejo" },
+            { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+            { "region": "Ñuble", "comuna": "San Nicolás" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+            { "region": "Valparaíso", "comuna": "Calle Larga" }
+          ]
+        },
+        {
+          "seller": "Seller A",
+          "rating": 4,
+          "price": 20789,
+          "specialPrice": 9990,
+          "shippingTime": 3,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Ñuble", "comuna": "El Carmen" },
+            { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+            { "region": "Valparaíso", "comuna": "San Felipe" },
+            { "region": "Valparaíso", "comuna": "Zapallar" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+            { "region": "Valparaíso", "comuna": "Villa Alemana" },
+            { "region": "Ñuble", "comuna": "Chillán Viejo" },
+            { "region": "Ñuble", "comuna": "Quillón" },
+            { "region": "Valparaíso", "comuna": "Concón" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Polerón Cuello Redondo Hombre",
+      "productId": "882479145",
+      "brand": "BASEMENT",
+      "images": [
+        "https://falabella.scene7.com/is/image/Falabella/882479153_1",
+        "https://falabella.scene7.com/is/image/Falabella/882479153_2"
+      ],
+      "offerings": [
+        {
+          "seller": "Seller D",
+          "rating": 4,
+          "price": 32689,
+          "specialPrice": 28190,
+          "shippingTime": 1,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Ñuble", "comuna": "Chillán Viejo" },
+            { "region": "Ñuble", "comuna": "El Carmen" },
+            { "region": "Valparaíso", "comuna": "San Felipe" },
+            { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+            { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Reina" }
+          ]
+        },
+        {
+          "seller": "Seller B",
+          "rating": 4,
+          "price": 32689,
+          "specialPrice": 29090,
+          "shippingTime": 3,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Valparaíso", "comuna": "Quintero" },
+            { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+            { "region": "Ñuble", "comuna": "San Nicolás" },
+            { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+            { "region": "Ñuble", "comuna": "Ránquil" }
+          ]
+        },
+        {
+          "seller": "Seller C",
+          "rating": 4,
+          "price": 32089,
+          "specialPrice": 28190,
+          "shippingTime": 1,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Valparaíso", "comuna": "Villa Alemana" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+            { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+            { "region": "Ñuble", "comuna": "Pinto" },
+            { "region": "Ñuble", "comuna": "Chillán Viejo" },
+            { "region": "Valparaíso", "comuna": "Calle Larga" },
+            { "region": "Valparaíso", "comuna": "Putaendo" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ROXY Poleron Manga Larga Algodón Niña",
+      "productId": "16062175",
+      "brand": "ROXY",
+      "images": [
+        "https://falabella.scene7.com/is/image/Falabella/16062181_1",
+        "https://falabella.scene7.com/is/image/Falabella/16062181_3"
+      ],
+      "offerings": [
+        {
+          "seller": "Seller E",
+          "rating": 2,
+          "price": 32089,
+          "specialPrice": 18390,
+          "shippingTime": 0,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Valparaíso", "comuna": "Quintero" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+            { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+            { "region": "Valparaíso", "comuna": "Concón" }
+          ]
+        },
+        {
+          "seller": "Seller D",
+          "rating": 2,
+          "price": 32989,
+          "specialPrice": 19590,
+          "shippingTime": 3,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Ñuble", "comuna": "Pinto" },
+            { "region": "Valparaíso", "comuna": "Quintero" },
+            { "region": "Valparaíso", "comuna": "Olmué" },
+            { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+            { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" }
+          ]
+        },
+        {
+          "seller": "Seller C",
+          "rating": 5,
+          "price": 31489,
+          "specialPrice": 17991,
+          "shippingTime": 1,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+            { "region": "Valparaíso", "comuna": "Puchuncaví" },
+            { "region": "Ñuble", "comuna": "El Carmen" },
+            { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+            { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+            { "region": "Metropolitana de Santiago", "comuna": "Paine" }
+          ]
+        },
+        {
+          "seller": "Seller B",
+          "rating": 4,
+          "price": 32989,
+          "specialPrice": 18990,
+          "shippingTime": 2,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Valparaíso", "comuna": "Calle Larga" },
+            { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+            { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+            { "region": "Valparaíso", "comuna": "San Felipe" },
+            { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+            { "region": "Valparaíso", "comuna": "Olmué" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Polerón Mujer",
+      "productId": "882446035",
+      "brand": "UNIVERSITY CLUB",
+      "images": [
+        "https://falabella.scene7.com/is/image/Falabella/882446063_1",
+        "https://falabella.scene7.com/is/image/Falabella/882446063_2"
+      ],
+      "offerings": [
+        {
+          "seller": "Seller A",
+          "rating": 3,
+          "price": 18689,
+          "specialPrice": 15291,
+          "shippingTime": 1,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Pedro" },
+            { "region": "Valparaíso", "comuna": "Putaendo" },
+            { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+            { "region": "Valparaíso", "comuna": "Quintero" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" },
+            { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+            { "region": "Ñuble", "comuna": "Quillón" },
+            { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" }
+          ]
+        },
+        {
+          "seller": "Seller C",
+          "rating": 5,
+          "price": 18349,
+          "specialPrice": 15460,
+          "shippingTime": 0,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Valparaíso", "comuna": "Quintero" },
+            { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+            { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+            { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+            { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+            { "region": "Valparaíso", "comuna": "Zapallar" },
+            { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+            { "region": "Valparaíso", "comuna": "Concón" },
+            { "region": "Valparaíso", "comuna": "Olmué" }
+          ]
+        },
+        {
+          "seller": "Seller B",
+          "rating": 2,
+          "price": 18689,
+          "specialPrice": 16650,
+          "shippingTime": 1,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+            { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+            { "region": "Ñuble", "comuna": "Chillán Viejo" },
+            { "region": "Valparaíso", "comuna": "Zapallar" },
+            { "region": "Ñuble", "comuna": "San Nicolás" },
+            { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+            { "region": "Valparaíso", "comuna": "Limache" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Poleron Estampado Mujer",
+      "productId": "882363673",
+      "brand": "AMERICANINO",
+      "images": [
+        "https://falabella.scene7.com/is/image/Falabella/882363674_1",
+        "https://falabella.scene7.com/is/image/Falabella/882363674_2"
+      ],
+      "offerings": [
+        {
+          "seller": "Seller A",
+          "rating": 5,
+          "price": 37789,
+          "specialPrice": 16140,
+          "shippingTime": 2,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Pedro" },
+            { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+            { "region": "Valparaíso", "comuna": "Zapallar" },
+            { "region": "Ñuble", "comuna": "Chillán Viejo" },
+            { "region": "Ñuble", "comuna": "Ránquil" },
+            { "region": "Valparaíso", "comuna": "Quintero" },
+            { "region": "Valparaíso", "comuna": "Puchuncaví" },
+            { "region": "Metropolitana de Santiago", "comuna": "Estación Central" }
+          ]
+        },
+        {
+          "seller": "Seller E",
+          "rating": 2,
+          "price": 38489,
+          "specialPrice": 16820,
+          "shippingTime": 2,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Valparaíso", "comuna": "Limache" },
+            { "region": "Valparaíso", "comuna": "Quintero" },
+            { "region": "Valparaíso", "comuna": "Calle Larga" },
+            { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+            { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+            { "region": "Ñuble", "comuna": "Ránquil" }
+          ]
+        },
+        {
+          "seller": "Seller B",
+          "rating": 3,
+          "price": 38489,
+          "specialPrice": 16820,
+          "shippingTime": 3,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+            { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+            { "region": "Ñuble", "comuna": "Pinto" },
+            { "region": "Valparaíso", "comuna": "Quintero" },
+            { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+            { "region": "Metropolitana de Santiago", "comuna": "Conchalí" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Poleron Logo Mujer",
+      "productId": "882267458",
+      "brand": "AMERICANINO",
+      "images": [
+        "https://falabella.scene7.com/is/image/Falabella/882267460_01",
+        "https://falabella.scene7.com/is/image/Falabella/882267460_1",
+        "https://falabella.scene7.com/is/image/Falabella/882267460_2"
+      ],
+      "offerings": [
+        {
+          "seller": "Seller E",
+          "rating": 3,
+          "price": 32689,
+          "specialPrice": 15800,
+          "shippingTime": 0,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Valparaíso", "comuna": "Olmué" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Pedro" },
+            { "region": "Valparaíso", "comuna": "Calle Larga" },
+            { "region": "Valparaíso", "comuna": "San Felipe" },
+            { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+            { "region": "Valparaíso", "comuna": "Villa Alemana" }
+          ]
+        },
+        {
+          "seller": "Seller C",
+          "rating": 5,
+          "price": 31489,
+          "specialPrice": 16990,
+          "shippingTime": 0,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Ñuble", "comuna": "Ránquil" },
+            { "region": "Ñuble", "comuna": "Quillón" },
+            { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+            { "region": "Valparaíso", "comuna": "San Felipe" },
+            { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+            { "region": "Ñuble", "comuna": "Chillán Viejo" },
+            { "region": "Valparaíso", "comuna": "Puchuncaví" }
+          ]
+        },
+        {
+          "seller": "Seller A",
+          "rating": 5,
+          "price": 31789,
+          "specialPrice": 15800,
+          "shippingTime": 0,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+            { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+            { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+            { "region": "Ñuble", "comuna": "Quillón" },
+            { "region": "Valparaíso", "comuna": "Putaendo" },
+            { "region": "Valparaíso", "comuna": "Limache" },
+            { "region": "Valparaíso", "comuna": "Quintero" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Poleron Hombre",
+      "productId": "16000741",
+      "brand": "MAUI AND SONS",
+      "images": [
+        "https://falabella.scene7.com/is/image/Falabella/16000744_1",
+        "https://falabella.scene7.com/is/image/Falabella/16000744_2"
+      ],
+      "offerings": [
+        {
+          "seller": "Seller C",
+          "rating": 2,
+          "price": 34639,
+          "specialPrice": 15350,
+          "shippingTime": 0,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Valparaíso", "comuna": "Zapallar" },
+            { "region": "Valparaíso", "comuna": "Concón" },
+            { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+            { "region": "Valparaíso", "comuna": "Quintero" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+            { "region": "Ñuble", "comuna": "San Nicolás" },
+            { "region": "Valparaíso", "comuna": "San Felipe" },
+            { "region": "Metropolitana de Santiago", "comuna": "Paine" }
+          ]
+        },
+        {
+          "seller": "Seller E",
+          "rating": 5,
+          "price": 33649,
+          "specialPrice": 14870,
+          "shippingTime": 0,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Valparaíso", "comuna": "Limache" },
+            { "region": "Valparaíso", "comuna": "Quintero" },
+            { "region": "Ñuble", "comuna": "Chillán Viejo" },
+            { "region": "Valparaíso", "comuna": "Calle Larga" },
+            { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+            { "region": "Ñuble", "comuna": "Ránquil" },
+            { "region": "Valparaíso", "comuna": "Zapallar" },
+            { "region": "Ñuble", "comuna": "San Nicolás" },
+            { "region": "Valparaíso", "comuna": "Olmué" }
+          ]
+        },
+        {
+          "seller": "Seller A",
+          "rating": 3,
+          "price": 33979,
+          "specialPrice": 14550,
+          "shippingTime": 3,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+            { "region": "Ñuble", "comuna": "San Nicolás" },
+            { "region": "Valparaíso", "comuna": "Calle Larga" },
+            { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+            { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+            { "region": "Ñuble", "comuna": "El Carmen" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Polerón Paw Patrol Niña Algodón",
+      "productId": "882463060",
+      "brand": "PAW PATROL",
+      "images": [
+        "https://falabella.scene7.com/is/image/Falabella/882463064_1",
+        "https://falabella.scene7.com/is/image/Falabella/882463064_2",
+        "https://falabella.scene7.com/is/image/Falabella/882463064_3"
+      ],
+      "offerings": [
+        {
+          "seller": "Seller C",
+          "rating": 4,
+          "price": 15889,
+          "specialPrice": 6360,
+          "shippingTime": 2,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Ñuble", "comuna": "Ránquil" },
+            { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+            { "region": "Valparaíso", "comuna": "Quintero" },
+            { "region": "Valparaíso", "comuna": "Putaendo" }
+          ]
+        },
+        {
+          "seller": "Seller D",
+          "rating": 4,
+          "price": 15589,
+          "specialPrice": 6850,
+          "shippingTime": 3,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Valparaíso", "comuna": "Limache" },
+            { "region": "Ñuble", "comuna": "San Nicolás" },
+            { "region": "Valparaíso", "comuna": "Zapallar" },
+            { "region": "Valparaíso", "comuna": "Calle Larga" },
+            { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+            { "region": "Valparaíso", "comuna": "San Felipe" }
+          ]
+        },
+        {
+          "seller": "Seller B",
+          "rating": 5,
+          "price": 15289,
+          "specialPrice": 6780,
+          "shippingTime": 2,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Pedro" },
+            { "region": "Ñuble", "comuna": "Quillón" },
+            { "region": "Ñuble", "comuna": "Ránquil" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+            { "region": "Ñuble", "comuna": "Chillán Viejo" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" },
+            { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+            { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" }
+          ]
+        },
+        {
+          "seller": "Seller A",
+          "rating": 2,
+          "price": 15589,
+          "specialPrice": 6920,
+          "shippingTime": 0,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Valparaíso", "comuna": "San Felipe" },
+            { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+            { "region": "Valparaíso", "comuna": "Putaendo" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" },
+            { "region": "Ñuble", "comuna": "San Nicolás" },
+            { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+            { "region": "Valparaíso", "comuna": "Puchuncaví" },
+            { "region": "Valparaíso", "comuna": "Quintero" },
+            { "region": "Ñuble", "comuna": "Ránquil" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Polerón Mujer",
+      "productId": "15942201",
+      "brand": "ESPRIT",
+      "images": [
+        "https://falabella.scene7.com/is/image/Falabella/15942204_1",
+        "https://falabella.scene7.com/is/image/Falabella/15942204_2"
+      ],
+      "offerings": [
+        {
+          "seller": "Seller D",
+          "rating": 2,
+          "price": 36039,
+          "specialPrice": 15460,
+          "shippingTime": 1,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Valparaíso", "comuna": "Quintero" },
+            { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+            { "region": "Valparaíso", "comuna": "Puchuncaví" },
+            { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+            { "region": "Ñuble", "comuna": "Ránquil" }
+          ]
+        },
+        {
+          "seller": "Seller C",
+          "rating": 3,
+          "price": 37089,
+          "specialPrice": 16820,
+          "shippingTime": 1,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+            { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+            { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+            { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+            { "region": "Ñuble", "comuna": "Chillán Viejo" },
+            { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+            { "region": "Valparaíso", "comuna": "Zapallar" },
+            { "region": "Valparaíso", "comuna": "Limache" },
+            { "region": "Ñuble", "comuna": "Ránquil" }
+          ]
+        },
+        {
+          "seller": "Seller E",
+          "rating": 3,
+          "price": 37089,
+          "specialPrice": 15800,
+          "shippingTime": 0,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+            { "region": "Ñuble", "comuna": "Pinto" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" },
+            { "region": "Ñuble", "comuna": "Chillán Viejo" },
+            { "region": "Ñuble", "comuna": "Quillón" },
+            { "region": "Ñuble", "comuna": "San Nicolás" },
+            { "region": "Valparaíso", "comuna": "Zapallar" },
+            { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+            { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+            { "region": "Valparaíso", "comuna": "Calle Larga" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Polerón Mujer",
+      "productId": "16052818",
+      "brand": "ROXY",
+      "images": [
+        "https://falabella.scene7.com/is/image/Falabella/16052819_1",
+        "https://falabella.scene7.com/is/image/Falabella/16052819_2"
+      ],
+      "offerings": [
+        {
+          "seller": "Seller E",
+          "rating": 3,
+          "price": 34990,
+          "specialPrice": 15460,
+          "shippingTime": 3,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+            { "region": "Valparaíso", "comuna": "Calle Larga" },
+            { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+            { "region": "Ñuble", "comuna": "Pinto" },
+            { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+            { "region": "Valparaíso", "comuna": "Quintero" },
+            { "region": "Valparaíso", "comuna": "Zapallar" },
+            { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Pedro" }
+          ]
+        },
+        {
+          "seller": "Seller A",
+          "rating": 3,
+          "price": 36039,
+          "specialPrice": 16650,
+          "shippingTime": 3,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Valparaíso", "comuna": "Limache" },
+            { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+            { "region": "Ñuble", "comuna": "El Carmen" },
+            { "region": "Ñuble", "comuna": "Pinto" },
+            { "region": "Valparaíso", "comuna": "Zapallar" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+            { "region": "Valparaíso", "comuna": "Puchuncaví" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Reina" }
+          ]
+        },
+        {
+          "seller": "Seller B",
+          "rating": 2,
+          "price": 38489,
+          "specialPrice": 16480,
+          "shippingTime": 1,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+            { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+            { "region": "Ñuble", "comuna": "San Nicolás" },
+            { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+            { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+            { "region": "Valparaíso", "comuna": "Isla de Pascua" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Polerón Mujer",
+      "productId": "882379859",
+      "brand": "SYBILLA",
+      "images": [
+        "https://falabella.scene7.com/is/image/Falabella/882379860_1",
+        "https://falabella.scene7.com/is/image/Falabella/882379860_2"
+      ],
+      "offerings": [
+        {
+          "seller": "Seller B",
+          "rating": 5,
+          "price": 18179,
+          "specialPrice": 15800,
+          "shippingTime": 0,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+            { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+            { "region": "Valparaíso", "comuna": "Calle Larga" },
+            { "region": "Valparaíso", "comuna": "Puchuncaví" },
+            { "region": "Valparaíso", "comuna": "Quintero" },
+            { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+            { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+            { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+            { "region": "Ñuble", "comuna": "Chillán Viejo" }
+          ]
+        },
+        {
+          "seller": "Seller A",
+          "rating": 3,
+          "price": 17669,
+          "specialPrice": 15291,
+          "shippingTime": 1,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Valparaíso", "comuna": "Putaendo" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+            { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+            { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+            { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" },
+            { "region": "Ñuble", "comuna": "San Nicolás" }
+          ]
+        },
+        {
+          "seller": "Seller C",
+          "rating": 2,
+          "price": 18179,
+          "specialPrice": 15460,
+          "shippingTime": 2,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Valparaíso", "comuna": "Puchuncaví" },
+            { "region": "Valparaíso", "comuna": "Concón" },
+            { "region": "Valparaíso", "comuna": "Villa Alemana" },
+            { "region": "Ñuble", "comuna": "Ránquil" },
+            { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+            { "region": "Valparaíso", "comuna": "Calle Larga" },
+            { "region": "Metropolitana de Santiago", "comuna": "Estación Central" }
+          ]
+        },
+        {
+          "seller": "Seller E",
+          "rating": 2,
+          "price": 17159,
+          "specialPrice": 16310,
+          "shippingTime": 3,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Ñuble", "comuna": "Quillón" },
+            { "region": "Ñuble", "comuna": "San Nicolás" },
+            { "region": "Valparaíso", "comuna": "Limache" },
+            { "region": "Ñuble", "comuna": "Chillán Viejo" },
+            { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+            { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+            { "region": "Ñuble", "comuna": "Ránquil" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Polerón Hombre",
+      "productId": "882354909",
+      "brand": "CALVIN KLEIN",
+      "images": [
+        "https://falabella.scene7.com/is/image/Falabella/882354918_1",
+        "https://falabella.scene7.com/is/image/Falabella/882354918_2",
+        "https://falabella.scene7.com/is/image/Falabella/882354918_3"
+      ],
+      "offerings": [
+        {
+          "seller": "Seller D",
+          "rating": 2,
+          "price": 76289,
+          "specialPrice": 47990,
+          "shippingTime": 0,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Valparaíso", "comuna": "San Felipe" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Pedro" },
+            { "region": "Valparaíso", "comuna": "Puchuncaví" },
+            { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+            { "region": "Ñuble", "comuna": "El Carmen" },
+            { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+            { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+            { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+            { "region": "Ñuble", "comuna": "Chillán Viejo" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" }
+          ]
+        },
+        {
+          "seller": "Seller A",
+          "rating": 5,
+          "price": 74189,
+          "specialPrice": 49490,
+          "shippingTime": 3,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+            { "region": "Ñuble", "comuna": "San Nicolás" },
+            { "region": "Valparaíso", "comuna": "Zapallar" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+            { "region": "Valparaíso", "comuna": "Limache" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+            { "region": "Valparaíso", "comuna": "Concón" },
+            { "region": "Ñuble", "comuna": "Quillón" }
+          ]
+        },
+        {
+          "seller": "Seller E",
+          "rating": 3,
+          "price": 72789,
+          "specialPrice": 48990,
+          "shippingTime": 1,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Valparaíso", "comuna": "Olmué" },
+            { "region": "Ñuble", "comuna": "Ránquil" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+            { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+            { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+            { "region": "Ñuble", "comuna": "Pinto" },
+            { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" }
+          ]
+        },
+        {
+          "seller": "Seller C",
+          "rating": 3,
+          "price": 74189,
+          "specialPrice": 47490,
+          "shippingTime": 1,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Valparaíso", "comuna": "Villa Alemana" },
+            { "region": "Ñuble", "comuna": "El Carmen" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+            { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+            { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+            { "region": "Valparaíso", "comuna": "Olmué" },
+            { "region": "Valparaíso", "comuna": "Concón" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Polerón Hombre",
+      "productId": "882361575",
+      "brand": "TOMMY HILFIGER",
+      "images": [
+        "https://falabella.scene7.com/is/image/Falabella/882361597_1",
+        "https://falabella.scene7.com/is/image/Falabella/882361597_2"
+      ],
+      "offerings": [
+        {
+          "seller": "Seller B",
+          "rating": 3,
+          "price": 70689,
+          "specialPrice": 47990,
+          "shippingTime": 2,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+            { "region": "Ñuble", "comuna": "Ránquil" },
+            { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+            { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+            { "region": "Valparaíso", "comuna": "Olmué" },
+            { "region": "Ñuble", "comuna": "Quillón" },
+            { "region": "Valparaíso", "comuna": "Concón" },
+            { "region": "Valparaíso", "comuna": "Puchuncaví" },
+            { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+            { "region": "Ñuble", "comuna": "San Nicolás" }
+          ]
+        },
+        {
+          "seller": "Seller E",
+          "rating": 3,
+          "price": 69990,
+          "specialPrice": 48990,
+          "shippingTime": 2,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Valparaíso", "comuna": "Villa Alemana" },
+            { "region": "Valparaíso", "comuna": "Puchuncaví" },
+            { "region": "Ñuble", "comuna": "Pinto" },
+            { "region": "Ñuble", "comuna": "El Carmen" },
+            { "region": "Ñuble", "comuna": "Chillán Viejo" },
+            { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+            { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+            { "region": "Valparaíso", "comuna": "Limache" },
+            { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+            { "region": "Valparaíso", "comuna": "San Felipe" }
+          ]
+        },
+        {
+          "seller": "Seller C",
+          "rating": 5,
+          "price": 74889,
+          "specialPrice": 45490,
+          "shippingTime": 0,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Ñuble", "comuna": "Quillón" },
+            { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+            { "region": "Ñuble", "comuna": "San Nicolás" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+            { "region": "Valparaíso", "comuna": "Zapallar" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Poleron Hombre Outdoor Alpaca Merino Sostenible",
+      "productId": "14911641",
+      "brand": "ANDINA OUTDOORS",
+      "images": [
+        "https://falabella.scene7.com/is/image/Falabella/14911680_1",
+        "https://falabella.scene7.com/is/image/Falabella/14911680_2"
+      ],
+      "offerings": [
+        {
+          "seller": "Seller C",
+          "rating": 3,
+          "price": 158610,
+          "specialPrice": 146170,
+          "shippingTime": 2,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Ñuble", "comuna": "Ránquil" },
+            { "region": "Valparaíso", "comuna": "Quintero" },
+            { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+            { "region": "Valparaíso", "comuna": "Olmué" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+            { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+            { "region": "Metropolitana de Santiago", "comuna": "Pirque" }
+          ]
+        },
+        {
+          "seller": "Seller A",
+          "rating": 4,
+          "price": 169495,
+          "specialPrice": 139950,
+          "shippingTime": 0,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Valparaíso", "comuna": "Villa Alemana" },
+            { "region": "Valparaíso", "comuna": "Quintero" },
+            { "region": "Valparaíso", "comuna": "Olmué" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+            { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+            { "region": "Valparaíso", "comuna": "Puchuncaví" },
+            { "region": "Ñuble", "comuna": "Chillán Viejo" }
+          ]
+        },
+        {
+          "seller": "Seller E",
+          "rating": 5,
+          "price": 164830,
+          "specialPrice": 146170,
+          "shippingTime": 3,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+            { "region": "Valparaíso", "comuna": "Olmué" },
+            { "region": "Ñuble", "comuna": "Chillán Viejo" },
+            { "region": "Valparaíso", "comuna": "Zapallar" },
+            { "region": "Valparaíso", "comuna": "Calle Larga" },
+            { "region": "Ñuble", "comuna": "Pinto" },
+            { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+            { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Florida" }
+          ]
+        },
+        {
+          "seller": "Seller B",
+          "rating": 2,
+          "price": 163275,
+          "specialPrice": 144615,
+          "shippingTime": 2,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+            { "region": "Valparaíso", "comuna": "Olmué" },
+            { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Polerón Mujer",
+      "productId": "882455290",
+      "brand": "UNIVERSITY CLUB",
+      "images": [
+        "https://falabella.scene7.com/is/image/Falabella/882455303_1",
+        "https://falabella.scene7.com/is/image/Falabella/882455303_2"
+      ],
+      "offerings": [
+        {
+          "seller": "Seller B",
+          "rating": 3,
+          "price": 16489,
+          "specialPrice": 14240,
+          "shippingTime": 2,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+            { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+            { "region": "Ñuble", "comuna": "El Carmen" },
+            { "region": "Valparaíso", "comuna": "Zapallar" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Florida" }
+          ]
+        },
+        {
+          "seller": "Seller E",
+          "rating": 4,
+          "price": 15889,
+          "specialPrice": 13640,
+          "shippingTime": 2,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Ñuble", "comuna": "Ránquil" },
+            { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+            { "region": "Ñuble", "comuna": "Pinto" },
+            { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+            { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+            { "region": "Valparaíso", "comuna": "Quintero" },
+            { "region": "Valparaíso", "comuna": "San Felipe" },
+            { "region": "Ñuble", "comuna": "El Carmen" },
+            { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+            { "region": "Metropolitana de Santiago", "comuna": "Tiltil" }
+          ]
+        },
+        {
+          "seller": "Seller A",
+          "rating": 5,
+          "price": 15289,
+          "specialPrice": 14390,
+          "shippingTime": 1,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+            { "region": "Ñuble", "comuna": "Pinto" },
+            { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Pedro" },
+            { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" },
+            { "region": "Ñuble", "comuna": "Ránquil" },
+            { "region": "Valparaíso", "comuna": "Olmué" },
+            { "region": "Valparaíso", "comuna": "San Felipe" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Polerón Mujer",
+      "productId": "881976788",
+      "brand": "NEWPORT",
+      "images": [
+        "https://falabella.scene7.com/is/image/Falabella/882520526_1",
+        "https://falabella.scene7.com/is/image/Falabella/882520526_2"
+      ],
+      "offerings": [
+        {
+          "seller": "Seller B",
+          "rating": 5,
+          "price": 15289,
+          "specialPrice": 13640,
+          "shippingTime": 3,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Valparaíso", "comuna": "San Felipe" },
+            { "region": "Valparaíso", "comuna": "Quintero" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Pedro" },
+            { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+            { "region": "Valparaíso", "comuna": "Olmué" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+            { "region": "Metropolitana de Santiago", "comuna": "Conchalí" }
+          ]
+        },
+        {
+          "seller": "Seller C",
+          "rating": 5,
+          "price": 15589,
+          "specialPrice": 14090,
+          "shippingTime": 3,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Ñuble", "comuna": "Chillán Viejo" },
+            { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+            { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+            { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+            { "region": "Ñuble", "comuna": "San Nicolás" },
+            { "region": "Valparaíso", "comuna": "San Felipe" }
+          ]
+        },
+        {
+          "seller": "Seller A",
+          "rating": 3,
+          "price": 15439,
+          "specialPrice": 13491,
+          "shippingTime": 3,
+          "shippingZones": [
+            { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+            { "region": "Ñuble", "comuna": "El Carmen" },
+            { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+            { "region": "Valparaíso", "comuna": "Zapallar" },
+            { "region": "Valparaíso", "comuna": "Putaendo" },
+            { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+            { "region": "Ñuble", "comuna": "Chillán Viejo" },
+            { "region": "Valparaíso", "comuna": "Calle Larga" },
+            { "region": "Ñuble", "comuna": "Quillón" },
+            { "region": "Ñuble", "comuna": "Pinto" },
+            { "region": "Ñuble", "comuna": "Ránquil" }
+          ]
+        }
+      ]
+    },
+      {
+        "name": "Lumea BRI955 + Cepillo Dental Sonicare HX6807",
+        "productId": "16109950",
+        "brand": "PHILIPS",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/16109950_1",
+          "https://falabella.scene7.com/is/image/Falabella/16109950_2",
+          "https://falabella.scene7.com/is/image/Falabella/16109950_3"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller E",
+            "rating": 3,
+            "price": 505989,
+            "specialPrice": 391990,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" },
+              { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Pedro" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+              { "region": "Valparaíso", "comuna": "Concón" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+              { "region": "Valparaíso", "comuna": "Limache" }
+            ]
+          },
+          {
+            "seller": "Seller A",
+            "rating": 4,
+            "price": 459990,
+            "specialPrice": 395990,
+            "shippingTime": 1,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+              { "region": "Valparaíso", "comuna": "Olmué" },
+              { "region": "Ñuble", "comuna": "Quillón" },
+              { "region": "Ñuble", "comuna": "San Nicolás" }
+            ]
+          },
+          {
+            "seller": "Seller D",
+            "rating": 3,
+            "price": 482989,
+            "specialPrice": 367990,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" },
+              { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+              { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+              { "region": "Ñuble", "comuna": "San Nicolás" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Valparaíso", "comuna": "Zapallar" },
+              { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+              { "region": "Valparaíso", "comuna": "San Felipe" }
+            ]
+          },
+          {
+            "seller": "Seller B",
+            "rating": 4,
+            "price": 464589,
+            "specialPrice": 363990,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+              { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+              { "region": "Valparaíso", "comuna": "Olmué" },
+              { "region": "Ñuble", "comuna": "Chillán Viejo" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Ñuble", "comuna": "Quillón" },
+              { "region": "Ñuble", "comuna": "El Carmen" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Pedro" },
+              { "region": "Valparaíso", "comuna": "Calle Larga" },
+              { "region": "Metropolitana de Santiago", "comuna": "Estación Central" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Audífonos Philips SHL3000 Negro Dismac",
+        "productId": "110739342",
+        "brand": "PHILIPS",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/gsc_110739342_263682_1",
+          "https://falabella.scene7.com/is/image/Falabella/gsc_110739342_263682_2",
+          "https://falabella.scene7.com/is/image/Falabella/gsc_110739342_263682_3"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller D",
+            "rating": 2,
+            "price": 12229,
+            "specialPrice": 9072,
+            "shippingTime": 3,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Concón" },
+              { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+              { "region": "Ñuble", "comuna": "Ránquil" },
+              { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+              { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Pedro" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" },
+              { "region": "Ñuble", "comuna": "Pinto" },
+              { "region": "Valparaíso", "comuna": "Quintero" }
+            ]
+          },
+          {
+            "seller": "Seller C",
+            "rating": 5,
+            "price": 13069,
+            "specialPrice": 9571,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Ñuble", "comuna": "Chillán Viejo" },
+              { "region": "Ñuble", "comuna": "Pinto" },
+              { "region": "Ñuble", "comuna": "El Carmen" },
+              { "region": "Valparaíso", "comuna": "Puchuncaví" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+              { "region": "Valparaíso", "comuna": "Putaendo" },
+              { "region": "Valparaíso", "comuna": "Calle Larga" },
+              { "region": "Valparaíso", "comuna": "Limache" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" }
+            ]
+          },
+          {
+            "seller": "Seller B",
+            "rating": 2,
+            "price": 12469,
+            "specialPrice": 9172,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" },
+              { "region": "Ñuble", "comuna": "San Nicolás" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+              { "region": "Ñuble", "comuna": "Quillón" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" }
+            ]
+          },
+          {
+            "seller": "Seller E",
+            "rating": 3,
+            "price": 12109,
+            "specialPrice": 9172,
+            "shippingTime": 2,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+              { "region": "Valparaíso", "comuna": "Concón" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+              { "region": "Valparaíso", "comuna": "Isla de Pascua" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Audífono Headphones Philips Bluetooth",
+        "productId": "111384692",
+        "brand": "PHILIPS",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/gsc_111384692_301985_1",
+          "https://falabella.scene7.com/is/image/Falabella/gsc_111384692_301985_2",
+          "https://falabella.scene7.com/is/image/Falabella/gsc_111384692_301985_3"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller E",
+            "rating": 3,
+            "price": 35629,
+            "specialPrice": 31670,
+            "shippingTime": 1,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Ñuble", "comuna": "Ránquil" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+              { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+              { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" },
+              { "region": "Ñuble", "comuna": "Chillán Viejo" },
+              { "region": "Ñuble", "comuna": "Quillón" },
+              { "region": "Valparaíso", "comuna": "Quintero" }
+            ]
+          },
+          {
+            "seller": "Seller A",
+            "rating": 2,
+            "price": 33979,
+            "specialPrice": 32330,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Ñuble", "comuna": "Ránquil" },
+              { "region": "Valparaíso", "comuna": "Zapallar" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Pedro" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+              { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" }
+            ]
+          },
+          {
+            "seller": "Seller C",
+            "rating": 3,
+            "price": 34639,
+            "specialPrice": 31340,
+            "shippingTime": 3,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+              { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+              { "region": "Ñuble", "comuna": "El Carmen" },
+              { "region": "Ñuble", "comuna": "Ránquil" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+              { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" },
+              { "region": "Valparaíso", "comuna": "Putaendo" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+              { "region": "Valparaíso", "comuna": "San Felipe" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Led Philips Ambilight 55 4K Uhd 55Pud7906 Android",
+        "productId": "16299112",
+        "brand": "PHILIPS",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/16299112_1",
+          "https://falabella.scene7.com/is/image/Falabella/16299112_2"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller B",
+            "rating": 3,
+            "price": 540589,
+            "specialPrice": 395990,
+            "shippingTime": 1,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+              { "region": "Valparaíso", "comuna": "Puchuncaví" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Valparaíso", "comuna": "Limache" },
+              { "region": "Valparaíso", "comuna": "Concón" }
+            ]
+          },
+          {
+            "seller": "Seller A",
+            "rating": 4,
+            "price": 545889,
+            "specialPrice": 367990,
+            "shippingTime": 2,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" },
+              { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+              { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+              { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+              { "region": "Ñuble", "comuna": "Quillón" },
+              { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+              { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Pedro" }
+            ]
+          },
+          {
+            "seller": "Seller D",
+            "rating": 3,
+            "price": 572389,
+            "specialPrice": 387990,
+            "shippingTime": 1,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Ñuble", "comuna": "Chillán Viejo" },
+              { "region": "Ñuble", "comuna": "El Carmen" },
+              { "region": "Valparaíso", "comuna": "Zapallar" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+              { "region": "Valparaíso", "comuna": "Puchuncaví" },
+              { "region": "Ñuble", "comuna": "Ránquil" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "AUDIFONO DJ PHILIPS NEGRO SHL5000",
+        "productId": "6766985",
+        "brand": "PHILIPS",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/6766985_1",
+          "https://falabella.scene7.com/is/image/Falabella/6766985_2"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller C",
+            "rating": 5,
+            "price": 10689,
+            "specialPrice": 9690,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+              { "region": "Valparaíso", "comuna": "Concón" },
+              { "region": "Ñuble", "comuna": "Ránquil" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Pedro" },
+              { "region": "Valparaíso", "comuna": "Puchuncaví" }
+            ]
+          },
+          {
+            "seller": "Seller E",
+            "rating": 3,
+            "price": 10189,
+            "specialPrice": 9290,
+            "shippingTime": 3,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Ñuble", "comuna": "El Carmen" },
+              { "region": "Valparaíso", "comuna": "Calle Larga" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+              { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+              { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" },
+              { "region": "Valparaíso", "comuna": "Puchuncaví" }
+            ]
+          },
+          {
+            "seller": "Seller B",
+            "rating": 5,
+            "price": 10189,
+            "specialPrice": 9390,
+            "shippingTime": 3,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+              { "region": "Ñuble", "comuna": "San Nicolás" },
+              { "region": "Valparaíso", "comuna": "Putaendo" },
+              { "region": "Valparaíso", "comuna": "Concón" }
+            ]
+          },
+          {
+            "seller": "Seller A",
+            "rating": 2,
+            "price": 10489,
+            "specialPrice": 9990,
+            "shippingTime": 2,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Limache" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+              { "region": "Ñuble", "comuna": "Pinto" },
+              { "region": "Ñuble", "comuna": "Ránquil" },
+              { "region": "Valparaíso", "comuna": "Zapallar" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+              { "region": "Valparaíso", "comuna": "Olmué" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Audifono Deportivo Bluetooth Philips SHQ7800BK",
+        "productId": "12603327",
+        "brand": "PHILIPS",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/12603327_1",
+          "https://falabella.scene7.com/is/image/Falabella/12603327_2"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller B",
+            "rating": 3,
+            "price": 21989,
+            "specialPrice": 14540,
+            "shippingTime": 3,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+              { "region": "Valparaíso", "comuna": "Limache" },
+              { "region": "Valparaíso", "comuna": "Puchuncaví" },
+              { "region": "Ñuble", "comuna": "Ránquil" },
+              { "region": "Metropolitana de Santiago", "comuna": "Conchalí" }
+            ]
+          },
+          {
+            "seller": "Seller A",
+            "rating": 2,
+            "price": 20389,
+            "specialPrice": 14390,
+            "shippingTime": 3,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Ñuble", "comuna": "Pinto" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+              { "region": "Valparaíso", "comuna": "San Felipe" },
+              { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+              { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+              { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+              { "region": "Valparaíso", "comuna": "Olmué" },
+              { "region": "Valparaíso", "comuna": "Concón" }
+            ]
+          },
+          {
+            "seller": "Seller C",
+            "rating": 5,
+            "price": 21189,
+            "specialPrice": 14840,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Valparaíso", "comuna": "Puchuncaví" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+              { "region": "Ñuble", "comuna": "San Nicolás" },
+              { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+              { "region": "Ñuble", "comuna": "Chillán Viejo" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+              { "region": "Valparaíso", "comuna": "Concón" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cortapelo Philips Hc3505/15",
+        "productId": "112962106",
+        "brand": "PHILIPS",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/gsc_112962106_448995_1",
+          "https://falabella.scene7.com/is/image/Falabella/gsc_112962106_448995_1",
+          "https://falabella.scene7.com/is/image/Falabella/gsc_112962106_448995_2"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller C",
+            "rating": 3,
+            "price": 30229,
+            "specialPrice": 25470,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+              { "region": "Valparaíso", "comuna": "Putaendo" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+              { "region": "Ñuble", "comuna": "Chillán Viejo" },
+              { "region": "Valparaíso", "comuna": "San Felipe" }
+            ]
+          },
+          {
+            "seller": "Seller D",
+            "rating": 5,
+            "price": 30789,
+            "specialPrice": 25470,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Ñuble", "comuna": "Chillán Viejo" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+              { "region": "Ñuble", "comuna": "Pinto" },
+              { "region": "Valparaíso", "comuna": "San Felipe" }
+            ]
+          },
+          {
+            "seller": "Seller B",
+            "rating": 4,
+            "price": 30229,
+            "specialPrice": 26590,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+              { "region": "Valparaíso", "comuna": "Zapallar" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Ñuble", "comuna": "San Nicolás" },
+              { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+              { "region": "Valparaíso", "comuna": "Putaendo" },
+              { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+              { "region": "Ñuble", "comuna": "Chillán Viejo" },
+              { "region": "Valparaíso", "comuna": "Calle Larga" }
+            ]
+          },
+          {
+            "seller": "Seller E",
+            "rating": 3,
+            "price": 28549,
+            "specialPrice": 27990,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Olmué" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Valparaíso", "comuna": "Putaendo" },
+              { "region": "Valparaíso", "comuna": "Zapallar" },
+              { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Ampolleta LED Philips Hue E27 1.100lm, RGB, BT, WiFi, 9 Watts",
+        "productId": "112631202",
+        "brand": "PHILIPS",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/gsc_112631202_341132_1",
+          "https://falabella.scene7.com/is/image/Falabella/gsc_112631202_341132_2",
+          "https://falabella.scene7.com/is/image/Falabella/gsc_112631202_341132_3"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller C",
+            "rating": 2,
+            "price": 47239,
+            "specialPrice": 44090,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Valparaíso", "comuna": "Putaendo" },
+              { "region": "Valparaíso", "comuna": "Zapallar" },
+              { "region": "Ñuble", "comuna": "Ránquil" },
+              { "region": "Valparaíso", "comuna": "San Felipe" }
+            ]
+          },
+          {
+            "seller": "Seller B",
+            "rating": 2,
+            "price": 46789,
+            "specialPrice": 44540,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Ñuble", "comuna": "El Carmen" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+              { "region": "Valparaíso", "comuna": "Calle Larga" },
+              { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+              { "region": "Ñuble", "comuna": "Ránquil" },
+              { "region": "Valparaíso", "comuna": "Puchuncaví" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Ñuble", "comuna": "Pinto" }
+            ]
+          },
+          {
+            "seller": "Seller E",
+            "rating": 2,
+            "price": 48139,
+            "specialPrice": 40940,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Pedro" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" },
+              { "region": "Valparaíso", "comuna": "Puchuncaví" },
+              { "region": "Metropolitana de Santiago", "comuna": "Estación Central" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Audifonos Philips TAH4205RD/00 / Over Ear / Bluetooth PHILIPS",
+        "productId": "113398657",
+        "brand": "PHILIPS",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/gsc_113398657_630407_1",
+          "https://falabella.scene7.com/is/image/Falabella/gsc_113398657_630407_1",
+          "https://falabella.scene7.com/is/image/Falabella/gsc_113398657_630407_1"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller C",
+            "rating": 2,
+            "price": 52489,
+            "specialPrice": 28190,
+            "shippingTime": 2,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+              { "region": "Valparaíso", "comuna": "Limache" },
+              { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+              { "region": "Ñuble", "comuna": "Ránquil" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" },
+              { "region": "Valparaíso", "comuna": "Olmué" }
+            ]
+          },
+          {
+            "seller": "Seller D",
+            "rating": 4,
+            "price": 50989,
+            "specialPrice": 29090,
+            "shippingTime": 3,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Calle Larga" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+              { "region": "Valparaíso", "comuna": "Puchuncaví" },
+              { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+              { "region": "Valparaíso", "comuna": "Olmué" },
+              { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+              { "region": "Valparaíso", "comuna": "Zapallar" }
+            ]
+          },
+          {
+            "seller": "Seller A",
+            "rating": 3,
+            "price": 49990,
+            "specialPrice": 26991,
+            "shippingTime": 3,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+              { "region": "Valparaíso", "comuna": "Olmué" },
+              { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Audifono Philips TAH4105 / Over Ear /Alambrico / Manos Libres PHILIPS",
+        "productId": "113580637",
+        "brand": "PHILIPS",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/gsc_113580637_683149_1",
+          "https://falabella.scene7.com/is/image/Falabella/gsc_113580637_683149_1",
+          "https://falabella.scene7.com/is/image/Falabella/gsc_113580637_683149_1"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller D",
+            "rating": 3,
+            "price": 29669,
+            "specialPrice": 16650,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Valparaíso", "comuna": "Putaendo" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" }
+            ]
+          },
+          {
+            "seller": "Seller B",
+            "rating": 4,
+            "price": 30229,
+            "specialPrice": 16820,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+              { "region": "Valparaíso", "comuna": "Putaendo" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+              { "region": "Valparaíso", "comuna": "Isla de Pascua" }
+            ]
+          },
+          {
+            "seller": "Seller E",
+            "rating": 2,
+            "price": 29109,
+            "specialPrice": 16990,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+              { "region": "Valparaíso", "comuna": "Concón" },
+              { "region": "Valparaíso", "comuna": "Puchuncaví" },
+              { "region": "Valparaíso", "comuna": "Limache" },
+              { "region": "Valparaíso", "comuna": "San Felipe" },
+              { "region": "Ñuble", "comuna": "Quillón" },
+              { "region": "Metropolitana de Santiago", "comuna": "Paine" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cable de Carga Philips para iPhone",
+        "productId": "111649244",
+        "brand": "PHILIPS",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/gsc_111649244_257403_1",
+          "https://falabella.scene7.com/is/image/Falabella/gsc_111649244_257403_2",
+          "https://falabella.scene7.com/is/image/Falabella/gsc_111649244_257403_3"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller A",
+            "rating": 3,
+            "price": 13990,
+            "specialPrice": 10466,
+            "shippingTime": 1,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Olmué" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+              { "region": "Ñuble", "comuna": "El Carmen" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+              { "region": "Valparaíso", "comuna": "Calle Larga" },
+              { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Valparaíso", "comuna": "Concón" }
+            ]
+          },
+          {
+            "seller": "Seller D",
+            "rating": 5,
+            "price": 14549,
+            "specialPrice": 10034,
+            "shippingTime": 3,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Puchuncaví" },
+              { "region": "Valparaíso", "comuna": "Putaendo" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" },
+              { "region": "Valparaíso", "comuna": "Concón" },
+              { "region": "Valparaíso", "comuna": "Limache" }
+            ]
+          },
+          {
+            "seller": "Seller C",
+            "rating": 5,
+            "price": 14549,
+            "specialPrice": 9711,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Putaendo" },
+              { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+              { "region": "Ñuble", "comuna": "El Carmen" },
+              { "region": "Valparaíso", "comuna": "Zapallar" },
+              { "region": "Valparaíso", "comuna": "Calle Larga" },
+              { "region": "Valparaíso", "comuna": "San Felipe" },
+              { "region": "Metropolitana de Santiago", "comuna": "Paine" }
+            ]
+          },
+          {
+            "seller": "Seller B",
+            "rating": 3,
+            "price": 14829,
+            "specialPrice": 10358,
+            "shippingTime": 1,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Zapallar" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" },
+              { "region": "Ñuble", "comuna": "Chillán Viejo" },
+              { "region": "Valparaíso", "comuna": "Concón" },
+              { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+              { "region": "Ñuble", "comuna": "Ránquil" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Pedro" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+              { "region": "Ñuble", "comuna": "El Carmen" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "KIT CORTABARBA PHILIPS MG5730",
+        "productId": "6030217",
+        "brand": "PHILIPS",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/6030217_1",
+          "https://falabella.scene7.com/is/image/Falabella/6030217_10",
+          "https://falabella.scene7.com/is/image/Falabella/6030217_11"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller E",
+            "rating": 5,
+            "price": 49909,
+            "specialPrice": 37791,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Puchuncaví" },
+              { "region": "Ñuble", "comuna": "Chillán Viejo" },
+              { "region": "Ñuble", "comuna": "Pinto" },
+              { "region": "Valparaíso", "comuna": "Limache" },
+              { "region": "Ñuble", "comuna": "El Carmen" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+              { "region": "Valparaíso", "comuna": "Putaendo" }
+            ]
+          },
+          {
+            "seller": "Seller D",
+            "rating": 4,
+            "price": 50869,
+            "specialPrice": 39470,
+            "shippingTime": 1,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Pedro" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" },
+              { "region": "Valparaíso", "comuna": "Puchuncaví" },
+              { "region": "Valparaíso", "comuna": "Putaendo" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+              { "region": "Valparaíso", "comuna": "San Felipe" },
+              { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" }
+            ]
+          },
+          {
+            "seller": "Seller C",
+            "rating": 5,
+            "price": 51829,
+            "specialPrice": 41990,
+            "shippingTime": 3,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+              { "region": "Valparaíso", "comuna": "Concón" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+              { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+              { "region": "Valparaíso", "comuna": "Limache" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Audifono Philips Bluetooth SHB3595BK",
+        "productId": "15219509",
+        "brand": "PHILIPS",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/15219509_1",
+          "https://falabella.scene7.com/is/image/Falabella/15219509_2"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller E",
+            "rating": 4,
+            "price": 19749,
+            "specialPrice": 15830,
+            "shippingTime": 2,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+              { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+              { "region": "Valparaíso", "comuna": "Zapallar" },
+              { "region": "Valparaíso", "comuna": "Olmué" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" }
+            ]
+          },
+          {
+            "seller": "Seller B",
+            "rating": 5,
+            "price": 19369,
+            "specialPrice": 14870,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Ñuble", "comuna": "Quillón" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+              { "region": "Valparaíso", "comuna": "Zapallar" },
+              { "region": "Ñuble", "comuna": "Ránquil" },
+              { "region": "Ñuble", "comuna": "Chillán Viejo" },
+              { "region": "Valparaíso", "comuna": "Limache" },
+              { "region": "Valparaíso", "comuna": "Puchuncaví" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" }
+            ]
+          },
+          {
+            "seller": "Seller C",
+            "rating": 4,
+            "price": 20129,
+            "specialPrice": 14710,
+            "shippingTime": 3,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" },
+              { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+              { "region": "Ñuble", "comuna": "Quillón" },
+              { "region": "Valparaíso", "comuna": "Quintero" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Audifonos Bluetooth Philips TAH4205WH BLANCOS",
+        "productId": "113422410",
+        "brand": "PHILIPS",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/gsc_113422410_643378_1",
+          "https://falabella.scene7.com/is/image/Falabella/gsc_113422410_643378_1",
+          "https://falabella.scene7.com/is/image/Falabella/gsc_113422410_643378_1"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller D",
+            "rating": 2,
+            "price": 38149,
+            "specialPrice": 33110,
+            "shippingTime": 1,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+              { "region": "Ñuble", "comuna": "San Nicolás" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" }
+            ]
+          },
+          {
+            "seller": "Seller A",
+            "rating": 5,
+            "price": 36349,
+            "specialPrice": 34910,
+            "shippingTime": 3,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Puchuncaví" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+              { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+              { "region": "Ñuble", "comuna": "San Nicolás" },
+              { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+              { "region": "Metropolitana de Santiago", "comuna": "Conchalí" }
+            ]
+          },
+          {
+            "seller": "Seller B",
+            "rating": 5,
+            "price": 38509,
+            "specialPrice": 34550,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+              { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+              { "region": "Valparaíso", "comuna": "Concón" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Pedro" },
+              { "region": "Valparaíso", "comuna": "San Felipe" },
+              { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Audifonos Philips TAH4205BL/00 / Over Ear / Bluetooth PHILIPS",
+        "productId": "113398655",
+        "brand": "PHILIPS",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/gsc_113398655_630406_1",
+          "https://falabella.scene7.com/is/image/Falabella/gsc_113398655_630406_1",
+          "https://falabella.scene7.com/is/image/Falabella/gsc_113398655_630406_1"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller D",
+            "rating": 2,
+            "price": 52489,
+            "specialPrice": 26991,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+              { "region": "Valparaíso", "comuna": "Concón" },
+              { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+              { "region": "Ñuble", "comuna": "Ránquil" }
+            ]
+          },
+          {
+            "seller": "Seller B",
+            "rating": 3,
+            "price": 52989,
+            "specialPrice": 27590,
+            "shippingTime": 2,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Zapallar" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Pedro" },
+              { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+              { "region": "Valparaíso", "comuna": "San Felipe" },
+              { "region": "Valparaíso", "comuna": "Limache" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+              { "region": "Valparaíso", "comuna": "Concón" },
+              { "region": "Valparaíso", "comuna": "Isla de Pascua" }
+            ]
+          },
+          {
+            "seller": "Seller C",
+            "rating": 2,
+            "price": 52989,
+            "specialPrice": 28790,
+            "shippingTime": 3,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+              { "region": "Ñuble", "comuna": "El Carmen" },
+              { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+              { "region": "Valparaíso", "comuna": "Olmué" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" }
+            ]
+          },
+          {
+            "seller": "Seller A",
+            "rating": 5,
+            "price": 52489,
+            "specialPrice": 27890,
+            "shippingTime": 3,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Limache" },
+              { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Pedro" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+              { "region": "Ñuble", "comuna": "Chillán Viejo" },
+              { "region": "Ñuble", "comuna": "Pinto" },
+              { "region": "Valparaíso", "comuna": "San Felipe" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Audifonos Bluetooth Philips Tah4205 Wh",
+        "productId": "15746226",
+        "brand": "PHILIPS",
+        "images": ["https://falabella.scene7.com/is/image/Falabella/15746226_1"],
+        "offerings": [
+          {
+            "seller": "Seller A",
+            "rating": 5,
+            "price": 42499,
+            "specialPrice": 37040,
+            "shippingTime": 2,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Valparaíso", "comuna": "San Felipe" },
+              { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+              { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+              { "region": "Ñuble", "comuna": "Quillón" },
+              { "region": "Valparaíso", "comuna": "Concón" },
+              { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+              { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+              { "region": "Metropolitana de Santiago", "comuna": "Conchalí" }
+            ]
+          },
+          {
+            "seller": "Seller E",
+            "rating": 5,
+            "price": 42499,
+            "specialPrice": 35870,
+            "shippingTime": 3,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" },
+              { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+              { "region": "Ñuble", "comuna": "San Nicolás" },
+              { "region": "Valparaíso", "comuna": "Zapallar" }
+            ]
+          },
+          {
+            "seller": "Seller B",
+            "rating": 4,
+            "price": 41329,
+            "specialPrice": 38210,
+            "shippingTime": 2,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Pedro" },
+              { "region": "Valparaíso", "comuna": "Limache" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Ñuble", "comuna": "Pinto" }
+            ]
+          },
+          {
+            "seller": "Seller C",
+            "rating": 5,
+            "price": 42109,
+            "specialPrice": 38600,
+            "shippingTime": 2,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Calle Larga" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+              { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+              { "region": "Ñuble", "comuna": "Chillán Viejo" },
+              { "region": "Valparaíso", "comuna": "Limache" },
+              { "region": "Metropolitana de Santiago", "comuna": "Renca" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Led Philips 50 4K Uhd 50Pud7406 Android Smart Tv",
+        "productId": "16297856",
+        "brand": "PHILIPS",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/16297856_1",
+          "https://falabella.scene7.com/is/image/Falabella/16297856_2"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller E",
+            "rating": 3,
+            "price": 447189,
+            "specialPrice": 300690,
+            "shippingTime": 3,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Ñuble", "comuna": "Chillán Viejo" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" },
+              { "region": "Valparaíso", "comuna": "San Felipe" },
+              { "region": "Valparaíso", "comuna": "Limache" },
+              { "region": "Ñuble", "comuna": "San Nicolás" }
+            ]
+          },
+          {
+            "seller": "Seller A",
+            "rating": 4,
+            "price": 460089,
+            "specialPrice": 285190,
+            "shippingTime": 1,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+              { "region": "Valparaíso", "comuna": "Puchuncaví" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Valparaíso", "comuna": "Limache" },
+              { "region": "Valparaíso", "comuna": "Concón" },
+              { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" }
+            ]
+          },
+          {
+            "seller": "Seller B",
+            "rating": 3,
+            "price": 434289,
+            "specialPrice": 306890,
+            "shippingTime": 2,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Ñuble", "comuna": "Quillón" },
+              { "region": "Ñuble", "comuna": "Ránquil" },
+              { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+              { "region": "Valparaíso", "comuna": "Zapallar" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+              { "region": "Valparaíso", "comuna": "Olmué" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" }
+            ]
+          },
+          {
+            "seller": "Seller C",
+            "rating": 3,
+            "price": 460089,
+            "specialPrice": 297590,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Ñuble", "comuna": "Pinto" },
+              { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+              { "region": "Valparaíso", "comuna": "Putaendo" },
+              { "region": "Valparaíso", "comuna": "Concón" },
+              { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+              { "region": "Valparaíso", "comuna": "San Felipe" },
+              { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+              { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+              { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Afeitadora Prestige Philips SP9861",
+        "productId": "11035151",
+        "brand": "PHILIPS",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/11035151_1",
+          "https://falabella.scene7.com/is/image/Falabella/11035151_2"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller E",
+            "rating": 5,
+            "price": 356989,
+            "specialPrice": 328990,
+            "shippingTime": 2,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Ñuble", "comuna": "Ránquil" },
+              { "region": "Ñuble", "comuna": "Quillón" },
+              { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+              { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Valparaíso", "comuna": "Olmué" }
+            ]
+          },
+          {
+            "seller": "Seller A",
+            "rating": 2,
+            "price": 374489,
+            "specialPrice": 346490,
+            "shippingTime": 3,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Valparaíso", "comuna": "Olmué" },
+              { "region": "Ñuble", "comuna": "Chillán Viejo" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+              { "region": "Ñuble", "comuna": "San Nicolás" },
+              { "region": "Ñuble", "comuna": "Ránquil" },
+              { "region": "Valparaíso", "comuna": "Concón" },
+              { "region": "Valparaíso", "comuna": "San Felipe" },
+              { "region": "Valparaíso", "comuna": "Isla de Pascua" }
+            ]
+          },
+          {
+            "seller": "Seller B",
+            "rating": 4,
+            "price": 384989,
+            "specialPrice": 349990,
+            "shippingTime": 2,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+              { "region": "Ñuble", "comuna": "Quillón" },
+              { "region": "Valparaíso", "comuna": "Zapallar" },
+              { "region": "Ñuble", "comuna": "Pinto" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" },
+              { "region": "Valparaíso", "comuna": "San Felipe" },
+              { "region": "Metropolitana de Santiago", "comuna": "Estación Central" }
+            ]
+          },
+          {
+            "seller": "Seller C",
+            "rating": 5,
+            "price": 374489,
+            "specialPrice": 332490,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Concón" },
+              { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+              { "region": "Ñuble", "comuna": "Quillón" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Pedro" },
+              { "region": "Ñuble", "comuna": "El Carmen" },
+              { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+              { "region": "Ñuble", "comuna": "Pinto" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Recortador De Barba Y Bigote Philips Bt3206",
+        "productId": "15156329",
+        "brand": "PHILIPS",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/15156329_1",
+          "https://falabella.scene7.com/is/image/Falabella/15156329_2",
+          "https://falabella.scene7.com/is/image/Falabella/15156329_3"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller A",
+            "rating": 4,
+            "price": 42401,
+            "specialPrice": 38900,
+            "shippingTime": 2,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Pedro" },
+              { "region": "Metropolitana de Santiago", "comuna": "Estación Central" }
+            ]
+          },
+          {
+            "seller": "Seller B",
+            "rating": 3,
+            "price": 41234,
+            "specialPrice": 36177,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Valparaíso", "comuna": "Limache" },
+              { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" },
+              { "region": "Valparaíso", "comuna": "Olmué" },
+              { "region": "Valparaíso", "comuna": "Zapallar" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+              { "region": "Ñuble", "comuna": "Quillón" }
+            ]
+          },
+          {
+            "seller": "Seller E",
+            "rating": 3,
+            "price": 42012,
+            "specialPrice": 38900,
+            "shippingTime": 2,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Ñuble", "comuna": "Quillón" },
+              { "region": "Valparaíso", "comuna": "Zapallar" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" },
+              { "region": "Ñuble", "comuna": "Pinto" },
+              { "region": "Metropolitana de Santiago", "comuna": "Estación Central" }
+            ]
+          },
+          {
+            "seller": "Seller C",
+            "rating": 5,
+            "price": 40456,
+            "specialPrice": 38122,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" },
+              { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+              { "region": "Valparaíso", "comuna": "Zapallar" },
+              { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+              { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+              { "region": "Valparaíso", "comuna": "Putaendo" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+              { "region": "Ñuble", "comuna": "Ránquil" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Pedro" },
+              { "region": "Ñuble", "comuna": "El Carmen" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Audífono Philips SHP2000",
+        "productId": "113382581",
+        "brand": "PHILIPS",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/gsc_113382581_623949_1",
+          "https://falabella.scene7.com/is/image/Falabella/gsc_113382581_623949_2",
+          "https://falabella.scene7.com/is/image/Falabella/gsc_113382581_623949_3"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller D",
+            "rating": 3,
+            "price": 21037,
+            "specialPrice": 18528,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Puchuncaví" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+              { "region": "Valparaíso", "comuna": "Putaendo" },
+              { "region": "Ñuble", "comuna": "Ránquil" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+              { "region": "Valparaíso", "comuna": "San Felipe" },
+              { "region": "Metropolitana de Santiago", "comuna": "Conchalí" }
+            ]
+          },
+          {
+            "seller": "Seller C",
+            "rating": 4,
+            "price": 21230,
+            "specialPrice": 17949,
+            "shippingTime": 1,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Zapallar" },
+              { "region": "Valparaíso", "comuna": "Olmué" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+              { "region": "Valparaíso", "comuna": "Putaendo" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+              { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+              { "region": "Ñuble", "comuna": "Pinto" },
+              { "region": "Valparaíso", "comuna": "Calle Larga" }
+            ]
+          },
+          {
+            "seller": "Seller A",
+            "rating": 4,
+            "price": 19300,
+            "specialPrice": 18335,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+              { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Ñuble", "comuna": "Quillón" },
+              { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" },
+              { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+              { "region": "Valparaíso", "comuna": "Puchuncaví" }
+            ]
+          },
+          {
+            "seller": "Seller B",
+            "rating": 4,
+            "price": 20651,
+            "specialPrice": 17370,
+            "shippingTime": 1,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Concón" },
+              { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+              { "region": "Ñuble", "comuna": "Chillán Viejo" },
+              { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+              { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+              { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+              { "region": "Valparaíso", "comuna": "Zapallar" },
+              { "region": "Metropolitana de Santiago", "comuna": "Pirque" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cortapelo Philips HC5630",
+        "productId": "8210866",
+        "brand": "PHILIPS",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/8210866_1",
+          "https://falabella.scene7.com/is/image/Falabella/8210866_2"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller D",
+            "rating": 2,
+            "price": 46339,
+            "specialPrice": 36090,
+            "shippingTime": 3,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Olmué" },
+              { "region": "Ñuble", "comuna": "Pinto" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Pedro" }
+            ]
+          },
+          {
+            "seller": "Seller B",
+            "rating": 3,
+            "price": 44990,
+            "specialPrice": 36470,
+            "shippingTime": 2,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Pedro" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+              { "region": "Valparaíso", "comuna": "Olmué" },
+              { "region": "Valparaíso", "comuna": "Putaendo" },
+              { "region": "Ñuble", "comuna": "Pinto" },
+              { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+              { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" }
+            ]
+          },
+          {
+            "seller": "Seller E",
+            "rating": 5,
+            "price": 47689,
+            "specialPrice": 37990,
+            "shippingTime": 3,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" },
+              { "region": "Valparaíso", "comuna": "San Felipe" },
+              { "region": "Ñuble", "comuna": "San Nicolás" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+              { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+              { "region": "Valparaíso", "comuna": "Putaendo" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+              { "region": "Metropolitana de Santiago", "comuna": "Renca" },
+              { "region": "Valparaíso", "comuna": "Calle Larga" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Audifonos Inalambricos Philips 2000 Series TAUH202 PHILIPS",
+        "productId": "112872484",
+        "brand": "PHILIPS",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/gsc_112872484_443783_1",
+          "https://falabella.scene7.com/is/image/Falabella/gsc_112872484_443783_2",
+          "https://falabella.scene7.com/is/image/Falabella/gsc_112872484_443783_3"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller E",
+            "rating": 4,
+            "price": 30889,
+            "specialPrice": 27890,
+            "shippingTime": 2,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+              { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+              { "region": "Valparaíso", "comuna": "Quintero" },
+              { "region": "Ñuble", "comuna": "Pinto" }
+            ]
+          },
+          {
+            "seller": "Seller A",
+            "rating": 4,
+            "price": 29990,
+            "specialPrice": 27290,
+            "shippingTime": 3,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" },
+              { "region": "Valparaíso", "comuna": "Zapallar" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+              { "region": "Valparaíso", "comuna": "Olmué" },
+              { "region": "Ñuble", "comuna": "Chillán Viejo" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" }
+            ]
+          },
+          {
+            "seller": "Seller D",
+            "rating": 2,
+            "price": 30289,
+            "specialPrice": 26991,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+              { "region": "Valparaíso", "comuna": "Limache" },
+              { "region": "Valparaíso", "comuna": "San Felipe" },
+              { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+              { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+              { "region": "Valparaíso", "comuna": "Zapallar" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Valparaíso", "comuna": "Concón" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Pedro" }
+            ]
+          },
+          {
+            "seller": "Seller B",
+            "rating": 4,
+            "price": 32389,
+            "specialPrice": 29090,
+            "shippingTime": 2,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Ñuble", "comuna": "Ránquil" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+              { "region": "Ñuble", "comuna": "El Carmen" },
+              { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+              { "region": "Ñuble", "comuna": "San Nicolás" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Alisador bhs752/00 230 °c",
+        "productId": "16037828",
+        "brand": "PHILIPS",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/16037828_1",
+          "https://falabella.scene7.com/is/image/Falabella/16037828_2",
+          "https://falabella.scene7.com/is/image/Falabella/16037828_3"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller D",
+            "rating": 5,
+            "price": 87989,
+            "specialPrice": 63640,
+            "shippingTime": 3,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+              { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+              { "region": "Valparaíso", "comuna": "Zapallar" },
+              { "region": "Valparaíso", "comuna": "Limache" },
+              { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+              { "region": "Valparaíso", "comuna": "Concón" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" }
+            ]
+          },
+          {
+            "seller": "Seller C",
+            "rating": 3,
+            "price": 80789,
+            "specialPrice": 66990,
+            "shippingTime": 3,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Zapallar" },
+              { "region": "Valparaíso", "comuna": "Calle Larga" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+              { "region": "Valparaíso", "comuna": "Limache" },
+              { "region": "Metropolitana de Santiago", "comuna": "Conchalí" },
+              { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" }
+            ]
+          },
+          {
+            "seller": "Seller A",
+            "rating": 5,
+            "price": 79990,
+            "specialPrice": 61630,
+            "shippingTime": 2,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Metropolitana de Santiago", "comuna": "Quilicura" },
+              { "region": "Ñuble", "comuna": "Chillán Viejo" },
+              { "region": "Valparaíso", "comuna": "San Felipe" },
+              { "region": "Valparaíso", "comuna": "Puchuncaví" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+              { "region": "Valparaíso", "comuna": "Putaendo" },
+              { "region": "Ñuble", "comuna": "Pinto" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+              { "region": "Metropolitana de Santiago", "comuna": "Conchalí" }
+            ]
+          },
+          {
+            "seller": "Seller E",
+            "rating": 3,
+            "price": 86389,
+            "specialPrice": 66320,
+            "shippingTime": 1,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" },
+              { "region": "Metropolitana de Santiago", "comuna": "Tiltil" },
+              { "region": "Ñuble", "comuna": "Ránquil" },
+              { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+              { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+              { "region": "Ñuble", "comuna": "Quillón" },
+              { "region": "Valparaíso", "comuna": "Olmué" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Reina" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Audifonos Bluetooth Philips Tah4205 Bk",
+        "productId": "15746222",
+        "brand": "PHILIPS",
+        "images": [
+          "https://falabella.scene7.com/is/image/Falabella/15746222_1",
+          "https://falabella.scene7.com/is/image/Falabella/15746222_2"
+        ],
+        "offerings": [
+          {
+            "seller": "Seller A",
+            "rating": 2,
+            "price": 42499,
+            "specialPrice": 38210,
+            "shippingTime": 0,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Ñuble", "comuna": "Chillán Viejo" },
+              { "region": "Metropolitana de Santiago", "comuna": "San Bernardo" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Valparaíso", "comuna": "Concón" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Cisterna" },
+              { "region": "Valparaíso", "comuna": "Puchuncaví" }
+            ]
+          },
+          {
+            "seller": "Seller C",
+            "rating": 4,
+            "price": 42889,
+            "specialPrice": 37430,
+            "shippingTime": 3,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Villa Alemana" },
+              { "region": "Metropolitana de Santiago", "comuna": "Pirque" },
+              { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+              { "region": "Ñuble", "comuna": "Ránquil" },
+              { "region": "Ñuble", "comuna": "Pinto" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Florida" },
+              { "region": "Valparaíso", "comuna": "Puchuncaví" },
+              { "region": "Metropolitana de Santiago", "comuna": "Calera de Tango" },
+              { "region": "Valparaíso", "comuna": "Limache" }
+            ]
+          },
+          {
+            "seller": "Seller D",
+            "rating": 3,
+            "price": 42889,
+            "specialPrice": 36260,
+            "shippingTime": 1,
+            "shippingZones": [
+              { "region": "Metropolitana de Santiago", "comuna": "Ñuñoa" },
+              { "region": "Valparaíso", "comuna": "Calle Larga" },
+              { "region": "Metropolitana de Santiago", "comuna": "La Reina" },
+              { "region": "Metropolitana de Santiago", "comuna": "María Pinto" },
+              { "region": "Valparaíso", "comuna": "Isla de Pascua" },
+              { "region": "Metropolitana de Santiago", "comuna": "Paine" },
+              { "region": "Metropolitana de Santiago", "comuna": "Lo Espejo" },
+              { "region": "Valparaíso", "comuna": "Limache" },
+              { "region": "Metropolitana de Santiago", "comuna": "Estación Central" },
+              { "region": "Valparaíso", "comuna": "Puchuncaví" }
+            ]
+          }
+        ]
+      }
+  ]
+}
